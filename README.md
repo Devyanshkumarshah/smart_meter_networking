@@ -1,1 +1,6 @@
-# smart_meter_networking
+smart_meter_networking
+
+Working on a smart meter project and its always better to test the network before deploying it with real Hardware.
+Before moving to hardware implementation, I wanted to test how the different components of the proposed network architecture work together in a simulated environment.
+I've been experimenting with **Whitefield and NS-3**, working with technologies like Zephyr RTOS, IPv6, RPL, CoAP, and Wi-Fi to understand how the network behaves as the number of nodes increases and when a gateway goes down.
+It's been interesting to see how simulation can help identify potential issues before moving to actual hardware. Still exploring, testing, and learning! 
